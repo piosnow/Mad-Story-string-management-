@@ -1,0 +1,13 @@
+C:\Users\Pedro\source\repos\Mad Story (string management)\bin\Debug\netcoreapp3.1\Mad Story (string management).exe
+C:\Users\Pedro\source\repos\Mad Story (string management)\bin\Debug\netcoreapp3.1\Mad Story (string management).deps.json
+C:\Users\Pedro\source\repos\Mad Story (string management)\bin\Debug\netcoreapp3.1\Mad Story (string management).runtimeconfig.json
+C:\Users\Pedro\source\repos\Mad Story (string management)\bin\Debug\netcoreapp3.1\Mad Story (string management).runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Mad Story (string management)\bin\Debug\netcoreapp3.1\Mad Story (string management).dll
+C:\Users\Pedro\source\repos\Mad Story (string management)\bin\Debug\netcoreapp3.1\Mad Story (string management).pdb
+C:\Users\Pedro\source\repos\Mad Story (string management)\obj\Debug\netcoreapp3.1\Mad Story (string management).csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Mad Story (string management)\obj\Debug\netcoreapp3.1\Mad Story (string management).AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Mad Story (string management)\obj\Debug\netcoreapp3.1\Mad Story (string management).AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Mad Story (string management)\obj\Debug\netcoreapp3.1\Mad Story (string management).csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Mad Story (string management)\obj\Debug\netcoreapp3.1\Mad Story (string management).dll
+C:\Users\Pedro\source\repos\Mad Story (string management)\obj\Debug\netcoreapp3.1\Mad Story (string management).pdb
+C:\Users\Pedro\source\repos\Mad Story (string management)\obj\Debug\netcoreapp3.1\Mad Story (string management).genruntimeconfig.cache
